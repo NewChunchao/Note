@@ -1,1 +1,10 @@
 所有的东西都是我们原创的，如果你引用了请标明来源
+/*    C  progress   */
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+
+int main(){
+printf("欢迎来到IDT—People");
+return 0;
+}
